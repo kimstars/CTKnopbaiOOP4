@@ -41,7 +41,7 @@ Một người đi du lịch, khi trở về mua n đồ vật,
 trọng lượng ko quá m cho trước.
 Hỏi cần chọn ra đồ vật gì và tổng giá trị max ?
 
-- ### [code](bai4_nguoiDulich)
+- ### [code](bai4_nguoiDulich/class)
 
 ## Bài 5: 
 cho một danh sách gồm n1 hình tròn, n2 hình cn, n3 hình tam giác
