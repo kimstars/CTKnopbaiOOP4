@@ -72,23 +72,4 @@ int main()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Source : [https://www.geeksforgeeks.org/orientation-3-ordered-points/](https://www.geeksforgeeks.org/orientation-3-ordered-points/)
